@@ -3,83 +3,81 @@
   "images": [
 
 
-    {
-      "category": "Anime",
-      "label": "Attack on Titan",
-      "total": 15
-    },
-
-    {
-      "category": "Anime",
-      "label": "Death Note",
-      "total": 15
-    },
-    {
-      "category": "Anime",
-      "label": "Demon Slayer",
-      "total": 7
-    },
-    {
-      "category": "Anime",
-      "label": "Detective Conan",
-      "total": 15
-    },
-    {
-      "category": "Anime",
-      "label": "Doraemon",
-      "total": 15
-    },
-    {
-      "category": "Anime",
-      "label": "Dragon Ball",
-      "total": 15
-    },
-    {
-      "category": "Anime",
-      "label": "Jujutsukaisen",
-      "total": 15
-    },
-    {
-      "category": "Anime",
-      "label": "Loopy",
-      "total": 6
-    },
-    {
-      "category": "Anime",
-      "label": "My Hero Academia",
-      "total": 15
-    },
-    {
-      "category": "Anime",
-      "label": "Naruto",
-      "total": 17
-    },
-    {
-      "category": "Anime",
-      "label": "One Piece",
-      "total": 15
-    },
-    {
-      "category": "Anime",
-      "label": "OshiNoKo",
-      "total": 6
-    },
-    {
-      "category": "Anime",
-      "label": "Pokemon",
-      "total": 17
-    },
-    {
-      "category": "Anime",
-      "label": "Sailor Moon",
-      "total": 15
-    },
-    {
-      "category": "Anime",
-      "label": "Spy x Family",
-      "total": 15
-    },
-
+  {
+    "category": "Anime",
+    "label": "One Piece",
+    "total": 15
+  },
+  {
+    "category": "Anime",
+    "label": "Demon Slayer",
+    "total": 7
+  },
+  {
+    "category": "Anime",
+    "label": "Attack on Titan",
+    "total": 15
+  },
+  {
+    "category": "Anime",
+    "label": "Naruto",
+    "total": 17
+  },
+  {
+    "category": "Anime",
+    "label": "Jujutsukaisen",
+    "total": 15
+  },
+  {
+    "category": "Anime",
+    "label": "Death Note",
+    "total": 15
+  },
+  {
+    "category": "Anime",
+    "label": "Spy x Family",
+    "total": 15
+  },
+  {
+    "category": "Anime",
+    "label": "Dragon Ball",
+    "total": 15
+  },
+  {
+    "category": "Anime",
+    "label": "Pokemon",
+    "total": 17
+  },
+  {
+    "category": "Anime",
+    "label": "My Hero Academia",
+    "total": 15
+  },
+  {
+    "category": "Anime",
+    "label": "OshiNoKo",
+    "total": 6
+  },
+  {
+    "category": "Anime",
+    "label": "Detective Conan",
+    "total": 15
+  },
+  {
+    "category": "Anime",
+    "label": "Doraemon",
+    "total": 15
+  },
+  {
+    "category": "Anime",
+    "label": "Sailor Moon",
+    "total": 15
+  },
+  {
+    "category": "Anime",
+    "label": "Loopy",
+    "total": 6
+  },
 
 
     {
