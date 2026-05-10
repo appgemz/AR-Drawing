@@ -5,6 +5,11 @@
 
   {
     "category": "Anime",
+    "label": "Naruto",
+    "total": 17
+  },
+  {
+    "category": "Anime",
     "label": "One Piece",
     "total": 15
   },
@@ -18,11 +23,7 @@
     "label": "Attack on Titan",
     "total": 15
   },
-  {
-    "category": "Anime",
-    "label": "Naruto",
-    "total": 17
-  },
+
   {
     "category": "Anime",
     "label": "Jujutsukaisen",
